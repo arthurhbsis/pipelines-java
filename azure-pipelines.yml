@@ -9,6 +9,11 @@ trigger:
 pool:
   vmImage: 'ubuntu-latest'
 
+- task: AzureKeyVault@1
+  inputs:
+    KeyVaultName: 
+    SecretsFilter: '*'
+
 steps:
 - task: Maven@3
   inputs:
