@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/arthuravila/teste/_apis/build/status/arthurhbsis.pipelines-java?branchName=master)](https://dev.azure.com/arthuravila/teste/_build/latest?definitionId=23&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
